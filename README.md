@@ -17,6 +17,6 @@ The 3rd row takes...... from the second row, .........MSB...........shifts (or n
 Together the input will shift according to the 3-bit input.
 
 Example: 
-8-bit input: 00001111
-3-bit input: 011 - (3 shifts)
+8-bit input: 00001111 ;
+3-bit input: 011 - (3 shifts) ;
 output: 11100001

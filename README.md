@@ -4,15 +4,8 @@ In computer structure which has a lot of registers, that chip can take a little 
 
 Made of 24 Mux_1-2 components- Every Mux takes two different input bits (A and B), and according to a selection input bit (S), outputs one of them (the out is the information thats inside the selected bit) 
 
-Truth Table of Mux:     A   B   S    0UT           
-                        0   0   0     0
-                        0   0   1     0
-                        0   1   0     0
-                        0   1   1     1
-                        1   0   0     1
-                        1   0   1     0
-                        1   1   0     1
-                        1   1   1     1
+
+
 U can see here the schematic and silicon layout design of the mux component. Using the CMOS method (the transistor sizes was computed according to the worst case of resistence).
 
 

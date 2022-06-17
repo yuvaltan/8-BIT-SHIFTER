@@ -6,7 +6,7 @@ Made of 24 Mux_1-2 components- Every Mux takes two different input bits (A and B
 
 
 
-U can see here the schematic and silicon layout design of the mux component. Using the CMOS method (the transistor sizes was computed according to the worst case of resistence).
+U can see here the schematic and silicon layout design of the mux component. Using the CMOS method (the transistor sizes were computed according to the worst case of resistence).
 
 
 The Shifter is made out of 24 Muxes (3 rows of 8), and 3 Inverters (NOT-gate).
